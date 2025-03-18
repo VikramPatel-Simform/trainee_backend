@@ -1,4 +1,7 @@
 ### Installation Backend
+## Versions
+- **NodeVersion**:v22.14.0
+- **MongoDB**:8.0.5
 
 1. Clone the repository:
    ```sh
