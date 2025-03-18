@@ -21,8 +21,8 @@
    node server.js
 6. The backend Server is started on the PORT You have specified
 
-7. [API Endpoints](#api-endpoints)
-   - [POST /signup](#post-signup)
-   - [POST /login](#post-login)
-   - [GET /user/:id](#get-userid)
-   - [PUT /user/:id](#put-userid)
+7. [API Endpoints]
+   - POST /signup - Used to signup the user
+   - POST /login - Used for login the user
+   - GET /user/:id - To get the information of specific User
+   - PUT /user/:id - To Update specific user
