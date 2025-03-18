@@ -20,3 +20,9 @@
    ```sh
    node server.js
 6. The backend Server is started on the PORT You have specified
+
+7. [API Endpoints](#api-endpoints)
+   - [POST /signup](#post-signup)
+   - [POST /login](#post-login)
+   - [GET /user/:id](#get-userid)
+   - [PUT /user/:id](#put-userid)
